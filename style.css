@@ -1,0 +1,8 @@
+body{
+    margin: 100px;
+    background-color: aliceblue;
+    text-align: center;
+}
+h1, h3{
+    color: red;
+}
